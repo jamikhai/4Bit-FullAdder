@@ -14,7 +14,6 @@ A half adder adds two bits together to output a sum and carry out. The carry out
   | 1 | 0 | 1 | 0 | 1 |
   | 1 | 1 | 0 | 0 | 1 |
   | 1 | 1 | 1 | 1 | 1 |
-  | --- | --- | --- | --- | --- |
 
 The equations for the outputs are:
 
