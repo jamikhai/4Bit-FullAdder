@@ -29,6 +29,6 @@ Given two N-bit numbers A and B, adder i will add A(i) and B(i) together to outp
 
 The schematic and simulation waveforms are shown below:
 
-![schematic](./img/schematic.png)
+![schematic](./imgs/schematic.png)
 
-![waveform](./img/waveforms.png)
+![waveform](./imgs/waveform.png)
